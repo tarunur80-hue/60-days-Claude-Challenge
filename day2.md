@@ -1,8 +1,9 @@
-#DAY 2:
+
+# DAY 2:
 
 # What I Did:-
 
-#Prompt Engineering:
+# Prompt Engineering:
 
 --Prompt that i needed to learn and Need to update to get better in Prompt engineering:
 
@@ -34,7 +35,7 @@ resources:
 2.docs.anthropic.com
 3.anthropic.com/claude
 
-Youtube: https://www.youtube.com/watch?v=hHbgODDQmoc
+--Youtube: https://www.youtube.com/watch?v=hHbgODDQmoc
 
 
 # What I Learn :-
@@ -69,5 +70,14 @@ As I continue this 60-day journey, I'm excited to learn how AI can enhance resea
 #ABTalks #ClaudeAI #PromptEngineering #ArtificialIntelligence #GenerativeAI #AIForWork #Productivity #LearningInPublic #DataAnalytics #CareerGrowth #60DaysChallenge #AIEducation #FutureOfWork
 
 📌 Day 2 Complete. 58 days to go! 🚀
+
+# Before:
+<img width="1536" height="1024" alt="bd20ee00-4b68-41c9-b219-eee185984a5d" src="https://github.com/user-attachments/assets/7fd17d70-7d00-48b6-abfa-de4ceba86a2d" />
+
+# After:
+<img width="1254" height="1254" alt="ChatGPT Image Jun 2, 2026, 07_52_41 PM" src="https://github.com/user-attachments/assets/e795c116-016d-4cd4-8040-6d5e78fc0ba9" />
+
+
+
 
 
