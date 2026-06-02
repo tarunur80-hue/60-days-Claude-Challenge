@@ -41,7 +41,7 @@ Youtube: https://www.youtube.com/watch?v=hHbgODDQmoc
 
 How to implement prompt engineering with proper optimised prompt(We can use the chrome extension as for learning for the prompt i.e. MetaPrompt)
 
-🚀 Day 1 of ABTalks 60 Days Claude Challenge Completed!
+🚀 Day 2 of ABTalks 60 Days Claude Challenge Completed!
 
 Today I explored the fundamentals of Prompt Engineering — one of the most valuable skills for working effectively with AI tools like Claude.
 
@@ -68,6 +68,6 @@ As I continue this 60-day journey, I'm excited to learn how AI can enhance resea
 
 #ABTalks #ClaudeAI #PromptEngineering #ArtificialIntelligence #GenerativeAI #AIForWork #Productivity #LearningInPublic #DataAnalytics #CareerGrowth #60DaysChallenge #AIEducation #FutureOfWork
 
-📌 Day 1 Complete. 59 days to go! 🚀
+📌 Day 2 Complete. 58 days to go! 🚀
 
 
