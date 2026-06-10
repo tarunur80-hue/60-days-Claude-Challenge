@@ -51,5 +51,6 @@ CSV Upload, 40 more foods, Additional micronutrients, 2-day meal planner, Risk A
 Return the updated HTML only.
 
 ***MVP version***:-
-[nutri-scope.html](https://github.com/user-attachments/files/28767678/nutri-scope.html)
+[nutri-scope.html](https://github.com/user-attachments/files/28780259/nutri-scope.html)
+
   
