@@ -60,5 +60,8 @@ Return the updated HTML only.
 
 <img width="628" height="286" alt="image" src="https://github.com/user-attachments/assets/ac2b9e81-47ec-4d5d-96c7-ffc64c0c30a7" />
 
+***PRO Version***
+[nutri-scope pro.html](https://github.com/user-attachments/files/28791397/nutri-scope.pro.html)
 
-  
+
+# deployed: https://nutriscorepro.netlify.app/
