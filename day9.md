@@ -53,4 +53,12 @@ Return the updated HTML only.
 ***MVP version***:-
 [nutri-scope.html](https://github.com/user-attachments/files/28780259/nutri-scope.html)
 
+
+<img width="1276" height="591" alt="image" src="https://github.com/user-attachments/assets/df1f2262-8eaf-4488-a97d-9489f111a56c" />
+
+<img width="1273" height="588" alt="image" src="https://github.com/user-attachments/assets/b3e85b8e-8bf0-45f4-9058-f50b18a68e00" />
+
+<img width="628" height="286" alt="image" src="https://github.com/user-attachments/assets/ac2b9e81-47ec-4d5d-96c7-ffc64c0c30a7" />
+
+
   
