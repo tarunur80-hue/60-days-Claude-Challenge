@@ -47,7 +47,12 @@ Screen Shots:
 <img width="1920" height="941" alt="Untitled1" src="https://github.com/user-attachments/assets/4c90b0d2-6965-4dec-ab5c-a7a4a8561ce3" />
 <img width="1920" height="948" alt="Untitled" src="https://github.com/user-attachments/assets/6d4d8d86-dbb5-4f35-9458-7d0e74597d2b" />
 
-Full Analysis Report: 
+MY Full Analysis Report: 
+[tarun_football_intelligence_postcard.html](https://github.com/user-attachments/files/29139735/tarun_football_intelligence_postcard.html)
+<img width="1920" height="822" alt="2" src="https://github.com/user-attachments/assets/d8be8b73-04fe-464a-8adc-2676f0f8fbde" />
+<img width="1920" height="1590" alt="1" src="https://github.com/user-attachments/assets/8a94cf75-845c-4a59-96a1-b991d9b920f2" />
+
+
 
 
     
