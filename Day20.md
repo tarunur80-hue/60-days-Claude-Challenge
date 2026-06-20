@@ -189,9 +189,16 @@
 
 # Output;
 
-HTML : <img width="1920" height="890" alt="Untitled3" src="https://github.com/user-attachments/assets/2e9d386a-e46f-4f95-8451-a41e2f6034da" />
-<img width="1920" height="889" alt="Untitled1" src="https://github.com/user-attachments/assets/8a2f876c-f31b-4c56-8ac5-a499a686ecd1" />
-<img width="1920" height="892" alt="Untitled" src="https://github.com/user-attachments/assets/a14a5e37-5d88-4de0-8d3b-cc4d41976091" />
+HTML : 
+[day20_face_puzzle_linkedin_card.html](https://github.com/user-attachments/files/29165359/day20_face_puzzle_linkedin_card.html)
+
 [face-puzzle-game.html](https://github.com/user-attachments/files/29164877/face-puzzle-game.html)
+
+<img width="1920" height="890" alt="Untitled3" src="https://github.com/user-attachments/assets/d1fb7065-2d60-48d6-8742-347d62a639c1" />
+<img width="1920" height="889" alt="Untitled1" src="https://github.com/user-attachments/assets/5c059d0a-fc87-4435-83b5-2618a0b1c7bb" />
+<img width="1920" height="892" alt="Untitled" src="https://github.com/user-attachments/assets/9a3ec293-71d5-433a-908d-a02a1201a902" />
+<img width="879" height="970" alt="Doc3_page-0001" src="https://github.com/user-attachments/assets/1f699042-0823-4b09-80a1-7a664122e3cb" />
+
+
 
             
