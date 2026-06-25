@@ -109,3 +109,8 @@ PDF FORMATTING RULES
 
 End with a 2-3 sentence Sustainability Verdict.
 
+# output:
+[InsurAI_Business_Strategy_Report.pdf](https://github.com/user-attachments/files/29323154/InsurAI_Business_Strategy_Report.pdf)
+[InsurAI_Business_Strategy_Report.html](https://github.com/user-attachments/files/29323152/InsurAI_Business_Strategy_Report.html)
+
+
