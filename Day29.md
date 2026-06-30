@@ -49,3 +49,5 @@ Design:
 Structure the React code into reusable components using useState. Ensure every button works, there are no console errors, and the final response contains only the complete HTML code inside a single code block.
 
 # OUTPUT:
+[operation-lifeline.html](https://github.com/user-attachments/files/29497279/operation-lifeline.html)
+<img width="1360" height="800" alt="operation_lifeline_thumbnail" src="https://github.com/user-attachments/assets/f41c797e-1a4a-42b6-9da7-2e797aba7cd5" />
