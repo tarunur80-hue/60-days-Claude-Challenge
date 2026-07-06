@@ -58,4 +58,13 @@ Return only one complete HTML file.
 [cognitive_pattern_explorer (1).html](https://github.com/user-attachments/files/29712338/cognitive_pattern_explorer.1.html)
 
  <img width="1200" height="675" alt="day36_thumbnail" src="https://github.com/user-attachments/assets/25a4cb0d-b4c0-4be3-b17d-c45d36a33b0d" />
-   
+
+ Calm:
+
+[cognitive-pattern-reflection.txt](https://github.com/user-attachments/files/29712674/cognitive-pattern-reflection.txt)
+
+
+ Stress:
+ 
+  [cognitive-pattern-reflection stress.txt](https://github.com/user-attachments/files/29712680/cognitive-pattern-reflection.stress.txt)
+ 
