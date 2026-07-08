@@ -250,10 +250,17 @@ Return ONLY the complete HTML inside one code block.
 
 # Output:
 
+[task_compass.html](https://github.com/user-attachments/files/29788439/task_compass.html)
+
+
 <img width="1676" height="946" alt="vVoOe9cF7Gtm9rvXxKoTdvJud5FZRyiemd0DdIdNXQIOMtKxGm5wCtZdE6l6lkD1ctDxDS3RuGnaqPCk2KmZ79puo8d7rMCB5aOZ_i5tZ0KlJPWFG18j-p8dXZ7SxqZi4f67fFuxH6FBRPn1R8_ivGetzc3MemDXKaLZYj2FQ3JbrWP8P6DPPsQ4qotoyBrU" src="https://github.com/user-attachments/assets/84fd9517-70b0-41e8-a175-d6bfd9183520" />
+
 <img width="1536" height="1024" alt="olBthqeqONnGqHTnaDJnWkM6qH2kaf2Esu0mJA-Y5LK9CdOGvCP4JVt79Iz1l4cJXRT2bwP9pibxTcW1h8ngqbmqXimVYq-jrGHvKCX8UzcEKrZJSeGT2LgGw5AQnspHltID0XS59sGEEFORTvj_pkG1RDvpNBoN8B0iqRsMXlDOlJCYQIOOLjZvU4TaDMnh" src="https://github.com/user-attachments/assets/14cd8587-5d22-4b64-9952-835eeb5c758c" />
+
 <img width="2308" height="1298" alt="kgHQEke10xSdxpK278jXM9xUQCUFZlyHg1UQJMR5Zwrv1J_jUdOtYaS7wijtEwm4M5J-M12nK5elR31j86YXJEO1dpv4T_gAjDJZOoT0ghKZSQytejY8bk49p4SeVZvrM535h_FAcXekkBQm128kTxl_VsSql3ZisUE1yD15fsCASsee03nNRK2pY6MgeGd-" src="https://github.com/user-attachments/assets/b29d8929-f1e2-4faf-bd3e-d71b08fd555f" />
+
 <img width="1024" height="576" alt="eMtcayl-3FQA2KVVsqksc0cCCcizC-pmOfYIoL637gtJBlWzQScjoK622ytiYY5E5PybFevJYlocUHI1CjgATU4fMh6G8h-jeZ0ZYO4jSLJbLhWyRhi5W9_HVEdMH2UL0TZ_PVtCgwJRSmdIxDuvoJAA_BNvpQhdSdD3HENNQ7EBZOab94o87BUVBPDQZ2p5" src="https://github.com/user-attachments/assets/00cd41d2-77ce-461f-8918-78a617dc4ea1" />
+
 <img width="1536" height="1024" alt="ChatGPT Image Jul 7, 2026, 10_51_42 PM" src="https://github.com/user-attachments/assets/15b996af-a1fa-4597-8d27-1267a33e6dc0" />
 
     
