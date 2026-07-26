@@ -4,7 +4,8 @@
 
 <div align="center">
 
-<img src="./assets/banner.png" alt="60 Days of Claude AI Challenge Banner" width="100%">
+<img src="<img width="300" height="84" alt="abtalks-logo" src="https://github.com/user-attachments/assets/7e86bf9b-ca66-47b6-8d7b-b8c1f3fb889f" />
+" alt="60 Days of Claude AI Challenge Banner" width="100%">
 
 ### Building Real AI Applications • One Day at a Time
 
