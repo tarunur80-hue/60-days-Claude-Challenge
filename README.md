@@ -114,34 +114,49 @@ MediGuide/
 
 ---
 
-# 📸 Daily Highlights
+# 📚 Daily Learning Journey
 
-## Day 2
-System Design completed with architecture diagrams, API contracts, and database schema.
+This repository captures the concepts, practices, and engineering principles I learn throughout the **60 Days of Claude AI Challenge**. Each milestone focuses on solving real-world software engineering problems while building an AI-powered healthcare application.
 
-![Day 2](./assets/day2-thumbnail.png)
+| Learning Area | Description |
+|--------------|-------------|
+| 📄 Product Thinking | Writing PRDs, defining user stories, and planning project scope |
+| 🏗️ System Design | Designing scalable architectures, APIs, database schemas, and project structures |
+| ⚙️ Project Foundation | Setting up development environments, version control, and application scaffolding |
+| 🤖 AI Development | Building AI-powered workflows, prompt engineering, and integrating LLMs |
+| 🌐 Backend Engineering | Developing REST APIs, routing, authentication, and business logic using Flask |
+| 🗄️ Database Design | Designing normalized schemas, SQLAlchemy models, and efficient queries |
+| 🔒 Authentication & Security | Implementing secure login systems, session management, and protected routes |
+| 🎨 Frontend Development | Creating responsive interfaces with HTML, CSS, JavaScript, and Jinja Templates |
+| 🧪 Testing & Debugging | Regression testing, validation, edge-case handling, and systematic debugging |
+| 🏥 Healthcare Application Design | Building safe AI experiences with explainable recommendations and responsible UX |
+| 🛠️ Software Architecture | Applying modular design, repository patterns, service layers, and clean code principles |
+| 🚀 Deployment | Preparing production-ready applications using Git, GitHub, and Render |
+| 📖 Documentation | Writing technical documentation, API references, and project guides |
+| 💡 Problem Solving | Making engineering trade-offs, refactoring code, and improving maintainability |
+| 📈 Build in Public | Documenting daily progress, sharing lessons learned, and continuously improving |
 
 ---
 
-## Day 3
-Project foundation completed with Flask setup, authentication scaffold, and database connection.
+# 💡 Key Learnings
 
-![Day 3](./assets/day3-thumbnail.png)
+Throughout this challenge, I'm strengthening both my technical and software engineering skills by focusing on:
 
----
-
-## Day 4
-Built the complete AI Symptom Checker with severity analysis and safety-first recommendations.
-
-![Day 4](./assets/day4-thumbnail.png)
-
----
-
-## Day 5
-Implemented the Doctor & Hospital Directory with smart filtering and detailed doctor profiles.
-
-![Day 5](./assets/day5-thumbnail.png)
-
+- 🤖 AI Application Development
+- 🏗️ System Design & Software Architecture
+- 🐍 Python & Flask Development
+- 🗄️ Database Design with SQLAlchemy
+- 🔒 Authentication & Authorization
+- 🌐 REST API Development
+- 🎨 Frontend Development (HTML, CSS, JavaScript)
+- 🧪 Testing, Validation & Debugging
+- 📂 Clean Code & Project Structure
+- 🔄 Git, GitHub & Version Control
+- 🚀 Deployment & Production Readiness
+- 📄 Technical Documentation
+- 💬 Prompt Engineering
+- 🧠 Problem Solving & Engineering Decisions
+- 📈 Building in Public
 ---
 
 # 📈 Skills Learned
@@ -163,7 +178,7 @@ Implemented the Doctor & Hospital Directory with smart filtering and detailed do
 
 # 🚀 What's Next?
 
-The remaining challenge focuses on:
+The challenge focuses on:
 
 - Appointment Booking
 - User Dashboard
@@ -180,9 +195,9 @@ The remaining challenge focuses on:
 
 ### 👨‍💻 Tarun Raj
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
-- 💻 GitHub: https://github.com/YOUR_USERNAME
-- 📧 Email: your@email.com
+- 💼 LinkedIn: www.linkedin.com/in/tarun-raj-745a03148
+- 💻 GitHub: https://github.com/tarunur80-hue
+- 📧 Email: tarun80ur@email.com
 
 ---
 
@@ -191,7 +206,7 @@ The remaining challenge focuses on:
 Special thanks to:
 
 - **Anthropic**
-- **ABTalksOnAI**
+- **ABTalksOnAI** : https://www.abtalks.in/?ref=V7XSGX
 - **Anil Bajpai**
 
 for organizing and inspiring this incredible learning journey.
