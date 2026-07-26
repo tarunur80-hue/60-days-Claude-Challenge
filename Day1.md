@@ -1,9 +1,9 @@
-satrting my 60 days journey
+# satrting my 60 days journey
 
 
-what i did:
+# what i did:
 
-AI Personality Profile Prompt
+# AI Personality Profile Prompt
 
 Act as an expert AI strategist and personal branding consultant.
 
