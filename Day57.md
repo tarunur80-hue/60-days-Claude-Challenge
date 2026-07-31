@@ -66,6 +66,9 @@ https://youtu.be/6RKN-oJB2Tc
 
 <img width="1536" height="1024" alt="Jul 31, 2026, 06_19_30 PM" src="https://github.com/user-attachments/assets/9712c090-8227-469d-87ac-96334a414ae1" />
 
+![Uploading MediGuide_Day7_Thumbnail.png…]()
+
+
 
 
 
